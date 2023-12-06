@@ -12,7 +12,7 @@ See what steganography is, and what information an image can hide
 
 ### Advice
 
-I strongly advise to do this project in Python  
+It is strongly advised to do this project in Python  
 https://en.wikipedia.org/wiki/Steganography  
 https://en.wikipedia.org/wiki/Exif
 
